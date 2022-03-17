@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Arrays
 
-You can use the [editor on GitHub](https://github.com/Stepcu/Arrays/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+1. script that allows to store 10 integers in an array. Show the content of ascending and descending arrangement.
+2. script that, using the same example above, sorts the stored items and displays the sorted array.
+3. script that allows to store 20 letters in an array. Determining number of vowel letters and stored consonants. Showing the contents of the array along with the amounts.
+4. script that allows to fill an array of 10 positions with numbers. Indicating a number want to search the array. If it finds it, it replaces it with its double. Shows the arrangement before and after replacement.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stepcu/Arrays/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
